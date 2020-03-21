@@ -1,5 +1,5 @@
 {
-  "name": "salzmann",
+  "name": "image_matcher",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
